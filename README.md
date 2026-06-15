@@ -61,7 +61,7 @@ MIT
 
 ## Author
 
-Your Name
+Kavana D R 
 
 Built with Next.js and Tailwind CSS
 
